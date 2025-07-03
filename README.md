@@ -12,7 +12,7 @@
 
 
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/sumaiya-nadaf/ </h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/summaiyanadaf/ </h3>
 <p align="left">
 </p>
 
