@@ -5,19 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya-nadaf&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-nadaf" /> </p>
 
-- 🔭 I’m Currently **Studying MCA(Master Of Computer Application)**
-
+- 🔭 **MCA(Master Of Computer Application)**
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate **on Exciting open-source projects or web development initiatives that leverage my expertise in React, HTML, CSS, and JavaScript. Let's work together to create something awesome! Ask me about HTML, CSS, JavaScript, Bootstrap, React, or front-end web development in general. I'd be happy to assist with any questions or problems you have.**
-
 - 📫 How to reach me **sumaiya.nadaf43@gmail.com**
 
-- 📄 Know about my experiences [[I have a solid foundation in front-end web development, having worked extensively with HTML, CSS, and JavaScript. I've also honed my skills in creating responsive and visually appealing user interfaces using Bootstrap and Tailwind CSS. With my ongoing learning journey in React, I'm excited to bring more interactivity and dynamic functionality to my projects. You can check out some of my work on my GitHub repository to see how I've applied these skills to real-world projects.]([I have a solid foundation in front-end web development, having worked extensively with HTML, CSS, and JavaScript. I've also honed my skills in creating responsive and visually appealing user interfaces using Bootstrap and Tailwind CSS. With my ongoing learning journey in React, I'm excited to bring more interactivity and dynamic functionality to my projects. You can check out some of my work on my GitHub repository to see how I've applied these skills to real-world projects.)
 
-- ⚡ Fun fact **I once built a fully functional web application for a local charity event in just 48 hours, from concept to deployment, using my HTML, CSS, and JavaScript skills. It was a rewarding experience, and the website helped raise significant funds for the cause!**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:https://www.linkedin.com/in/sumaiya-nadaf/ </h3>
 <p align="left">
 </p>
 
