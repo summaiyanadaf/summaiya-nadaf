@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya-nadaf&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-nadaf" /> </p>
 
-- 🔭 **MCA(Master Of Computer Application)**
+- 🔭 **MCA (Master Of Computer Application)**
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **sumaiya.nadaf43@gmail.com**
 
