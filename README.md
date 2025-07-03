@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Summaiya Nadaf</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Front End Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/illustration-with-person-relaxing-home_23-2148403433.jpg?t=st=1719758685~exp=1719762285~hmac=42657252f8b4bd92695496f1da9370fa29a2c3c8ab282a53dfea89e2c3728ab9&w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya-nadaf&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya-nadaf" /> </p>
